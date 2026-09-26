@@ -175,6 +175,7 @@ while True:
 
 # Observation
 <img width="1535" height="730" alt="image" src="https://github.com/user-attachments/assets/9ee041c7-97a4-4714-b120-9cdff6e686b1" />
+<img width="731" height="1600" alt="WhatsApp Image 2026-09-26 at 10 47 29 AM" src="https://github.com/user-attachments/assets/fbbcb748-6616-40a1-bd87-28cfa28bad67" />
 
 
 
